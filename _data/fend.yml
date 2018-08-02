@@ -143,3 +143,31 @@
     - title: Github
       icon: github
       url: https://github.com/hajczek
+      
+  
+ - name: Memory Game in the zoo
+   banner: https://i.imgur.com/b1EWyPj.png
+   links:
+     - title: Live Page
+       icon: web
+       url: https://yunkii.github.io/udacity-front-end/P03/index.html
+     - title: Github Repo
+       icon: github
+       url: https://github.com/yunkii/udacity-front-end/tree/master/P07
+   description: |
+
+This game is a project for Front-end Developer Nanodegree at Udacity (Google Scholarship Program)
+The purpose is to demostrate the knowledge of html, CSS and Javascript
+cute icons are from the Flaticons site.
+
+     Multiline format
+   author: Yunki
+   author_avatar: https://i.imgur.com/JMWsxMV.jpg
+   author_location: Paris, France
+   auhtor_links:
+     - title: LinkedIn
+       icon: linkedin
+       url: https://www.linkedin.com/in/yunkilin/
+     - title: Github
+       icon: github
+       url: https://github.com/yunkii/
